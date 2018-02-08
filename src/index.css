@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tabs: {
+  font-size: 16;
+  font-weight: 400;
+  height: 50;
+}
+
+.buttonPadding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
